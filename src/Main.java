@@ -82,7 +82,7 @@ public class Main {
         //Задача 10
         System.out.println("\nЗадача 10:");
         for (int i=1; i<=10; i++) {
-            System.out.println("2*" + i + "=" + i * 2);
+            System.out.println("2*" + i + "=" + i*2);
         }
     }
 }
